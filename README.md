@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karan Salve</h1>
 <h3 align="center">A Passionate Software tester and Spring boot Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=plasmapropulsionengine&label=Profile%20views&color=0e75b6&style=flat" alt="plasmapropulsionengine" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=plasmapropulsionengine&label=Profile%20views&color=0e75b6&style=flat" alt="Karan Salve" /> </p>
 
 - 🔭 I’m currently working on **Personal learning project**
 

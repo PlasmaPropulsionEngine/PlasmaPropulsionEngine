@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Personal learning project**
 
-- 🌱 I’m currently learning **react , nodejs**
+- 🌱 I’m currently learning **react , Spring Boot**
 
 - 📫 How to reach me **karansalve13@gmail.com**
 
